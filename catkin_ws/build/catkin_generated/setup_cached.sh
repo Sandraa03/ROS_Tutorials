@@ -7,3 +7,4 @@
 # new environment variables
 
 # modified environment variables
+export PYTHONPATH="/media/sandra/Sandra 1TB/UVic/Trimestre1/IntegracioRobotica/Unitat2/ROS_Tutorials/catkin_ws/devel/lib/python2.7/dist-packages:$PYTHONPATH"
