@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_sandra__33539: 'http://Sandra:33539/'}
+rosversion: '1.12.5
+
+  '
+run_id: bb2310e2-9b87-11e6-9fb0-40f02f4700ea
