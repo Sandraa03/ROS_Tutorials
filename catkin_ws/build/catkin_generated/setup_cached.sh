@@ -7,4 +7,3 @@
 # new environment variables
 
 # modified environment variables
-export PWD="/media/sandra/Sandra 1TB/UVic/Trimestre1/IntegracioRobotica/Unitat2/ROS_Tutorials/catkin_ws/build"
