@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/media/sandra/Sandra 1TB/UVic/Trimestre1/IntegracioRobotica/Unitat2/ROS_Tutorials/catkin_ws/devel:$CMAKE_PREFIX_PATH"
 export PWD="/media/sandra/Sandra 1TB/UVic/Trimestre1/IntegracioRobotica/Unitat2/ROS_Tutorials/catkin_ws/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/media/sandra/Sandra 1TB/UVic/Trimestre1/IntegracioRobotica/Unitat2/ROS_Tutorials/catkin_ws/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/media/sandra/Sandra 1TB/UVic/Trimestre1/IntegracioRobotica/Unitat2/ROS_Tutorials/catkin_ws/src:$ROS_PACKAGE_PATH"

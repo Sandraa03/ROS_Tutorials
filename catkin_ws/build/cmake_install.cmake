@@ -117,6 +117,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/media/sandra/Sandra 1TB/UVic/Trimestre1/IntegracioRobotica/Unitat2/ROS_Tutorials/catkin_ws/build/gtest/cmake_install.cmake")
+  include("/media/sandra/Sandra 1TB/UVic/Trimestre1/IntegracioRobotica/Unitat2/ROS_Tutorials/catkin_ws/build/beginner_tutorials/cmake_install.cmake")
 
 endif()
 
